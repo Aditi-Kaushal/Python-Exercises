@@ -1,0 +1,5 @@
+print("Question 5: - Write a program to find the third angle of a triangle if two angles are input through keyboard.")
+angle1=float(input("enter the fist angle:"))
+angle2=float(input("enter the second angle:"))
+angle3=(180-angle1-angle2)
+print("third angle of a triangle is:",angle3)
