@@ -1,0 +1,37 @@
+It's Card Game named Black Jack.
+
+Card has two value. one is its Rank and another is its Suit.
+
+Suit can be of four type:- Heart, Diamond, Spade, Club
+
+Deck have 52 Cards.
+
+Before Playing the Game we have to shuffle the Deck.
+
+There are two Player one is User and another is Computer.
+
+Every Card have its Game or Face Value.
+    - 2,3,4,5,6,7,8,9,10 have Face value as their Rank
+    - J means Jack have 10 Face value
+    - Q means Queen have 10 Face value
+    - K means King have 10 Face value
+    - 1 means Ace have two value depending upon total Face Value of cards hold by Player.
+    - If total Face Value is less than 16 then Ace have its Face Value 11
+    - If total Face Value is greater than 16 then Ace have its Face Value 1
+
+Game Winning Rule:-
+    1) If Player total Face Value of Cards exceed 21 then he/she will busted.
+
+    2) If Player choose to hit the card, then, he/she will pick a card at the top of Deck and
+    add to its Collection.
+
+    3) As the Player choose to stand, then, Computer will start the picking of card from Deck
+    and Computer assure picking of card unless its total Face value become greater than Player
+    Total Face Value or 16
+
+    4) Whose total Face Value is greater than another Player, So, Player or Computer will win.
+
+    5) At beginning of Game, Two Card will be picked for Player as well as for Computer.
+    Both Card of Player will be displayed and Computer only one card display and one card is unfold.
+
+    6) If there is Tie, then, Computer Wins.
