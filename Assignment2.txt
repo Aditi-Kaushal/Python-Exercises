@@ -1,0 +1,7 @@
+Question :- Input any number and display this number into words in International Standard.
+
+Answer :-
+
+Input :- 806007
+
+Output :- Eight hundred and six thousand seven.

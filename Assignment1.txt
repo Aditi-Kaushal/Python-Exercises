@@ -1,0 +1,8 @@
+Question :- Input any number and display this number into words.
+
+Answer :-
+
+Input :- 999999999
+
+Output :- Ninety Nine Crore Ninety Nine Lac Ninety Nine Thousand Nine Hundred Ninety Nine.
+
